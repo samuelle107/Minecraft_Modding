@@ -1,0 +1,14 @@
+# Items
+item.ingot_copper.name=Copper Ingot
+item.corn.name=Corn
+item.corn_seed.name=Corn Seed
+
+# Blocks
+tile.ore_copper.name=Copper Ore
+
+# Tabs
+itemGroup.tutorial=Mod Tab
+
+#Swords
+item.copper_sword.name=Copper Sword
+item.my_sword.name=Crystal Sword

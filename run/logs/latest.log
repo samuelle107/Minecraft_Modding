@@ -1,0 +1,40 @@
+[20:23:32] [main/INFO]: Setting user: Player937
+[20:23:38] [main/WARN]: Skipping bad option: lastServer:
+[20:23:38] [main/INFO]: LWJGL Version: 2.9.4
+[20:23:43] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tutorial Mod
+[20:24:00] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:24:00] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[20:24:00] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:24:01] [Thread-5/INFO]: OpenAL initialized.
+[20:24:01] [Sound Library Loader/INFO]: Sound engine started
+[20:24:10] [main/INFO]: Created: 512x512 textures-atlas
+[20:24:14] [main/WARN]: Skipping bad option: lastServer:
+[20:24:14] [main/INFO]: Narrator library for x64 successfully loaded
+[20:24:15] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[20:24:25] [Server thread/INFO]: Starting integrated minecraft server version 1.12
+[20:24:25] [Server thread/INFO]: Generating keypair
+[20:24:26] [Server thread/INFO]: Loaded 488 advancements
+[20:24:26] [Server thread/INFO]: Preparing start region for level 0
+[20:24:27] [Server thread/INFO]: Preparing spawn area: 2%
+[20:24:29] [Server thread/INFO]: Changing view distance to 12, from 10
+[20:24:32] [Server thread/INFO]: Player937[local:E:47f96f53] logged in with entity id 120 at (-449.30000001192093, 52.0, 132.3689946337824)
+[20:24:32] [Server thread/INFO]: Player937 joined the game
+[20:24:34] [Server thread/INFO]: Saving and pausing game...
+[20:24:34] [Server thread/INFO]: Saving chunks for level 'bondage'/overworld
+[20:24:34] [Server thread/INFO]: Saving chunks for level 'bondage'/the_nether
+[20:24:34] [Server thread/INFO]: Saving chunks for level 'bondage'/the_end
+[20:24:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2221ms behind, skipping 44 tick(s)
+[20:25:15] [main/INFO]: Loaded 5 advancements
+[20:26:02] [Server thread/INFO]: Saving and pausing game...
+[20:26:02] [Server thread/INFO]: Saving chunks for level 'bondage'/overworld
+[20:26:03] [Server thread/INFO]: Saving chunks for level 'bondage'/the_nether
+[20:26:03] [Server thread/INFO]: Saving chunks for level 'bondage'/the_end
+[20:26:04] [main/INFO]: Stopping!
+[20:26:04] [Server thread/INFO]: Stopping server
+[20:26:04] [Server thread/INFO]: Saving players
+[20:26:04] [Server thread/INFO]: Saving worlds
+[20:26:04] [Server thread/INFO]: Saving chunks for level 'bondage'/overworld
+[20:26:05] [Server thread/INFO]: Saving chunks for level 'bondage'/the_nether
+[20:26:05] [Server thread/INFO]: Saving chunks for level 'bondage'/the_end
+[20:26:05] [main/INFO]: SoundSystem shutting down...
+[20:26:05] [main/WARN]: Author: Paul Lamb, www.paulscode.com
